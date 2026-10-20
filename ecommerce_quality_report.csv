@@ -1,0 +1,6 @@
+Check,Errors,Status
+Product names missing,0,PASS
+Prices missing,0,PASS
+Invalid prices,0,PASS
+Discounts below -100%,0,PASS
+Discounts above 0%,0,PASS

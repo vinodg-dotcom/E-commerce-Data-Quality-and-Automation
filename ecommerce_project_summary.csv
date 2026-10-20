@@ -1,0 +1,13 @@
+Metric,Result
+Original records,3986.0
+Records after removing exact duplicates,3777.0
+Duplicate rows removed,209.0
+Missing product names,0.0
+Missing or invalid prices,0.0
+Products priced above $500,26.0
+Missing discounts,1518.0
+Missing recent-sales values,2425.0
+Unique product names,3627.0
+Average product price,41.17
+Median product price,16.1
+Automated checks passed,5.0
